@@ -7,7 +7,9 @@
   (title_block
     (date "2022-05-15")
     (rev "0.0.1a")
-    (comment 1 "A keyboard designed by Travis Rigg")
+    (comment 1 "Copyright Travis W Rigg")
+    (comment 2 "Licensed under CERN-OHL-P v2 or later (https://cern.ch/cern-ohl)")
+    (comment 3 "Repo: https://github.com/riggtravis/keybert")
   )
 
   (lib_symbols
