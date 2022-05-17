@@ -11,6 +11,7 @@ WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY
 AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-P v2
 for applicable conditions
 
+## The keeb!
 Keybert is an ortholinear split keyboard that is intended to be as inexpensive
 as possible when built by ordering everything from scratch (including ordering
 the PCBs from a PCB vendor that does custom orders). Keybert is also very basic.
@@ -37,12 +38,14 @@ An overall listing of features reads as follows:
    resisters so why exclude it from the schematic!?)
 6. PCB designed with tenting in mind
 
-# The Roadmap
+## The Roadmap
 There are some milestones that Keybert needs to acheive, as well as some pie in
 the sky type dreams that might never be acheived, but hey, they'd be nice
 
 Milestones:
-1. Compile all CERN OSH recommended documents (gerbers and PDFs)
+1. ~~Compile all CERN OSH recommended documents (gerbers and PDFs)~~
+2. Simplify PCB using
+  [the aisler PCB design rules](https://aisler.community/t/pcb-design-rules/41)
 2. Design switch plate
 3. Perform basic cost estimate
 4. Identify and resolve value shortcomings
