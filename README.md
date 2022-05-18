@@ -44,16 +44,16 @@ the sky type dreams that might never be acheived, but hey, they'd be nice
 
 Milestones:
 1. ~~Compile all CERN OSH recommended documents (gerbers and PDFs)~~
-2. Simplify PCB using
-  [the aisler PCB design rules](https://aisler.community/t/pcb-design-rules/41)
-2. Design switch plate
-3. Perform basic cost estimate
-4. Identify and resolve value shortcomings
-5. Order all parts
-6. Test build difficulty
-7. Identify issues with prototype
-8. User acceptance testing
-9. Acheive inner peace, never to look at the mechanical keyboard community ever
+2. ~~Simplify PCB using [the aisler PCB design rules](https://aisler.community/t/pcb-design-rules/41)~~
+3. Try to increase minimal drill size
+4. Design switch plate
+5. Perform basic cost estimate
+6. Identify and resolve value shortcomings
+7. Order all parts
+8. Test build difficulty
+9. Identify issues with prototype
+10. User acceptance testing
+11. Acheive inner peace, never to look at the mechanical keyboard community ever
    again, thus finally escaping the endless hamster wheel that is... "endgame"
 
 Unreasonable dreams:
